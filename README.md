@@ -1,5 +1,5 @@
-# NIBLSE_Collaborative_Framework
-NIBLSE sequence similarity modules assessment instrument and faculty mentoring network (FMN) survey analysis
+# Assessment of a NIBLSE bioinformatics sequence similarity learning resource
+NIBLSE sequence similarity modules assessment instrument data and analysis
 
 Based on a work at https://qubeshub.org/groups/niblse.
 Permissions beyond the scope of this license may be available at https://qubeshub.org/groups/niblse.
