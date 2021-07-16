@@ -1,0 +1,375 @@
+Course Code,Course,Institution,Level,Topic,Participant,Pre,Post,Difference,Pre Duration (seconds),Post Duration (seconds)
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,1,3,9.5,6.5,12864,7111
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,2,5.5,7.5,2,1114,1596
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,3,2.5,7,4.5,814,474
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,4,3,3.5,0.5,1386,1062
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,5,2.5,3.5,1,231994,774
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,6,1,4,3,55788,403
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,7,2.5,4,1.5,524,950
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,8,12,10.5,-1.5,1554,1385
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,9,4,8.5,4.5,724,880
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,10,7.5,9.5,2,1317,778
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,11,6.5,6,-0.5,752,649
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,12,6,11,5,9912,432
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,13,2.5,9.5,7,356,22159
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,14,2,3,1,575,410
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,15,4.5,10.5,6,465,1011
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,16,6.5,6.5,0,558,763
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,17,4,5.5,1.5,235,521
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,18,2.5,3,0.5,303,553
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,19,1,1.5,0.5,142,109
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,20,2,2,0,90,963
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,21,4.5,5,0.5,558,459
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,22,8.5,9,0.5,632,678
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,23,3,8,5,770,1062
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,24,6,5.5,-0.5,1290,1212
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,25,10,8.5,-1.5,2556,692
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,26,5.5,9,3.5,865,553
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,27,7.5,10.5,3,1061,2129
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,28,4,12.5,8.5,545,1166
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,29,9.5,9,-0.5,166145,403
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,30,5.5,8.5,3,3000,1243
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,31,2,7,5,301,331
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,32,8,11.5,3.5,548,621
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,33,3,2.5,-0.5,801,1928
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,34,1.5,9,7.5,913,561
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,35,6.5,6,-0.5,888,1196
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,36,6,8.5,2.5,905,757
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,37,8,10,2,3968,1288
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,38,3,8,5,411,103
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,39,4.5,8,3.5,4199,1853
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,40,10,8,-2,1738,1861
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,41,2.5,8,5.5,283,487
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,42,4,5.5,1.5,184,507
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,43,3,12,9,462,794
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,44,5.5,10,4.5,633,634
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,45,3,3,0,542,136
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,46,4.5,7,2.5,177,536
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,47,5.5,9.5,4,1698,3021
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,48,2,4.5,2.5,643,204
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,49,5.5,9.5,4,1020,1391
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,50,5,10.5,5.5,885,1257
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,51,4,4,0,551,178
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,52,1,7.5,6.5,335,572
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,53,11,9.5,-1.5,2647,2700
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,54,7.5,8.5,1,750,1517
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,55,3,4,1,333,872
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,56,1.5,6,4.5,959,621
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,57,8.5,12.5,4,1414,701
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,58,4,4.5,0.5,244787,1161
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,59,13.5,11,-2.5,820,2813
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,60,4,9.5,5.5,580,295861
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,61,7.5,8.5,1,336850,762
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,62,7.5,8,0.5,163577,856
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,63,9,11.5,2.5,1292,3911
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,64,3,7.5,4.5,2107,1507
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,65,5,7,2,650,2194
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,66,8,11,3,1229,723
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,67,7,9,2,806,661
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,68,7.5,11,3.5,864,750
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,69,6.5,10,3.5,1587,920
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,70,5,11.5,6.5,711,1314
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,71,7.5,7.5,0,3537,2092
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,72,8.5,9.5,1,1015,49079
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,73,4.5,9.5,5,531,796
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,74,7.5,10,2.5,332,2205
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,75,5,10.5,5.5,1253,1553
+F19_UNO,Mol_Bio,1R,upper,Molecular Biology,76,6.5,7.5,1,1391,767
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,77,3,2,-1,352,369
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,78,9.5,12,2.5,526,480
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,79,6,7.5,1.5,593,654
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,80,7,9.5,2.5,467,612
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,81,3.5,7.5,4,824,915
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,82,3.5,8,4.5,842,599
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,83,8.5,9,0.5,779,628
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,84,7.5,9.5,2,643,478
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,85,10,11.5,1.5,600,613
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,86,7,10.5,3.5,547,431
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,87,4.5,5,0.5,498,435
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,88,4,4.5,0.5,146,97
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,89,6,10.5,4.5,666,715
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,90,2,8,6,275,359
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,91,5,9,4,873,736
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,92,5,9,4,399,489
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,93,2.5,8.5,6,715,517
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,94,0.5,7.5,7,274,465
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,95,2,3,1,338,193
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,96,5,11,6,619,704
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,97,7.5,9,1.5,630,515
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,98,4,4,0,552,1075
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,99,5.5,11,5.5,763,1231
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,100,5,9,4,669,902
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,101,6,10,4,561,305
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,102,7.5,9,1.5,405,341
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,103,5.5,10,4.5,694,760
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,104,8.5,12,3.5,491,533
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,105,-0.5,7,7.5,356,559
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,106,5,4.5,-0.5,150,749
+F19_WPI,Bioinfo_and_Comp_Bio,1R,lower,Bioinformatics and Computational Biology,107,2,3,1,453,342
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,108,5.5,7.5,2,605,444
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,109,3.5,9.5,6,718,3539
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,110,9.5,12,2.5,653,523
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,111,4,12,8,8158,1184
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,112,4,7.5,3.5,372,981
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,113,6,10,4,547,1023
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,114,3,5,2,1541,538
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,115,2.5,8,5.5,716,1196
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,116,2,9,7,589,872
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,117,4,9,5,598,1031
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,118,5,10,5,482,500
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,119,7,11,4,766,2004
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,120,2,6,4,72288,2209
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,121,7,7.5,0.5,496,555
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,122,5.5,5.5,0,494,439
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,123,6,8.5,2.5,591,665
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,124,8,7.5,-0.5,658,484
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,125,4,4,0,497,469
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,126,1,7,6,712,1082
+S19_ASU,PUI_Gen_Bio,PUI,lower,1General Biology,127,5,8,3,551,392
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,128,0.5,2.5,2,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,129,7,10.5,3.5,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,130,5,6,1,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,131,2,5,3,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,132,4.5,9.5,5,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,133,5,5,0,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,134,8.5,10,1.5,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,135,6.5,9.5,3,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,136,4.5,9.5,5,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,137,6.5,9.5,3,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,138,5.5,12.5,7,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,139,4.5,9,4.5,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,140,3,5,2,NA,NA
+S19_ECSU,Dev_Bio,PUI,upper,Developmental Biology,141,5.5,7.5,2,NA,NA
+S19_FS,Mol_Biotech_S19,PUI,upper,Molecular Biotechnology,142,2.5,6.5,4,310,1037
+S19_FS,Mol_Biotech_S20,PUI,upper,Molecular Biotechnology,143,5.5,11,5.5,3244,598
+S19_FS,Mol_Biotech_S21,PUI,upper,Molecular Biotechnology,144,6,7.5,1.5,874,963
+S19_FS,Mol_Biotech_S22,PUI,upper,Molecular Biotechnology,145,5,6.5,1.5,810,487
+S19_FS,Mol_Biotech_S23,PUI,upper,Molecular Biotechnology,146,3.5,9.5,6,774,1025
+S19_FS,Mol_Biotech_S24,PUI,upper,Molecular Biotechnology,147,4.5,11.5,7,838,630
+S19_FS,Mol_Biotech_S25,PUI,upper,Molecular Biotechnology,148,5,9.5,4.5,859,771
+S19_FS,Mol_Biotech_S26,PUI,upper,Molecular Biotechnology,149,5,4,-1,882,433
+S19_FS,Mol_Biotech_S27,PUI,upper,Molecular Biotechnology,150,8.5,7.5,-1,747,658
+S19_UNO,Virology,1R,upper,Virology,151,7.5,8.5,1,3152,776
+S19_UNO,Virology,1R,upper,Virology,152,2,10,8,229,4900
+S19_UNO,Virology,1R,upper,Virology,153,2,9,7,265,429
+S19_UNO,Virology,1R,upper,Virology,154,4.5,6.5,2,969,1302
+S19_UNO,Virology,1R,upper,Virology,155,4.5,9,4.5,689,899
+S19_UNO,Virology,1R,upper,Virology,156,9.5,5,-4.5,1252,754
+S19_UNO,Virology,1R,upper,Virology,157,6,11.5,5.5,713,752
+S19_UNO,Virology,1R,upper,Virology,158,3,7.5,4.5,908,582
+S19_UNO,Virology,1R,upper,Virology,159,11,11,0,3904,720
+S19_UNO,Virology,1R,upper,Virology,160,1,7,6,1747,594
+S19_UNO,Virology,1R,upper,Virology,161,8,11.5,3.5,938,940
+S19_UNO,Virology,1R,upper,Virology,162,7,7,0,660,1694
+S19_UNO,Virology,1R,upper,Virology,163,5,6.5,1.5,705,666
+S19_UNO,Virology,1R,upper,Virology,164,8.5,10,1.5,1466,967
+S19_UNO,Virology,1R,upper,Virology,165,2.5,7.5,5,647,599
+S19_UNO,Virology,1R,upper,Virology,166,4,8.5,4.5,348,822
+S19_UNO,Virology,1R,upper,Virology,167,6.5,9,2.5,622,691
+S19_UNO,Virology,1R,upper,Virology,168,5,5.5,0.5,550,296
+S19_UNO,Virology,1R,upper,Virology,169,5,9.5,4.5,493,1719
+S19_UNO,Virology,1R,upper,Virology,170,7,12.5,5.5,846,34694
+S19_UNO,Virology,1R,upper,Virology,171,9,12.5,3.5,2631,2310
+S19_UNO,Virology,1R,upper,Virology,172,8,12.5,4.5,938,1471
+S19_UNO,Virology,1R,upper,Virology,173,5,9,4,360,1099
+S19_UNO,Virology,1R,upper,Virology,174,9,9,0,709,2287
+S19_UNO,Virology,1R,upper,Virology,175,3.5,8.5,5,688,497
+S20_FS,Mol_Biotech_S20,PUI,upper,Molecular Biotechnology,176,4.5,7,2.5,1074,1192
+S20_FS,Mol_Biotech_S21,PUI,upper,Molecular Biotechnology,177,6.5,3.5,-3,765,461
+S20_FS,Mol_Biotech_S22,PUI,upper,Molecular Biotechnology,178,5,5,0,1145,329
+S20_FS,Mol_Biotech_S23,PUI,upper,Molecular Biotechnology,179,1.5,6.5,5,431,574
+S20_FS,Mol_Biotech_S24,PUI,upper,Molecular Biotechnology,180,9.5,10,0.5,1019,947
+S20_FS,Mol_Biotech_S25,PUI,upper,Molecular Biotechnology,181,0.5,3,2.5,4878,29281
+S20_FS,Mol_Biotech_S26,PUI,upper,Molecular Biotechnology,182,1.5,6.5,5,361,445
+S20_FS,Mol_Biotech_S27,PUI,upper,Molecular Biotechnology,183,3.5,11.5,8,1427,1143
+S20_FS,Mol_Biotech_S28,PUI,upper,Molecular Biotechnology,184,1.5,5,3.5,1221,799
+S20_FS,Mol_Biotech_S29,PUI,upper,Molecular Biotechnology,185,6,7,1,717,686
+S20_FS,Mol_Biotech_S30,PUI,upper,Molecular Biotechnology,186,1.5,5.5,4,104,765
+S20_FS,Mol_Biotech_S31,PUI,upper,Molecular Biotechnology,187,3.5,3,-0.5,296,339
+S20_FS,Mol_Biotech_S32,PUI,upper,Molecular Biotechnology,188,2,2,0,816,485
+S20_FS,Mol_Biotech_S33,PUI,upper,Molecular Biotechnology,189,3,4,1,937,293
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,190,2,6.5,4.5,502,716
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,191,6,8,2,100,1051
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,192,2.5,5,2.5,85,633
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,193,3,5,2,583,443
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,194,4,8,4,470,434
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,195,4,7,3,609,230
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,196,3,1,-2,482,132
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,197,5.5,10.5,5,571,639
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,198,1.5,2.5,1,149,452200
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,199,4,5,1,639,428
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,200,4,5,1,498,534
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,201,6.5,8,1.5,380,387
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,202,3,5.5,2.5,2238,618
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,203,3,0,-3,215,256
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,204,2,5.5,3.5,419,752
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,205,4,8,4,504,824
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,206,7.5,7,-0.5,692,386
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,207,5,6,1,423,545
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,208,2.5,3,0.5,519,282
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,209,3.5,5,1.5,10752,367
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,210,1.5,5,3.5,443,669
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,211,2,7.5,5.5,253,362
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,212,5,8,3,1621,348
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,213,4,3,-1,566,306
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,214,4,4,0,469,392
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,215,5,8.5,3.5,676,493
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,216,1.5,4.5,3,958,279
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,217,4,5.5,1.5,580,565
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,218,2,3,1,2157,313
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,219,6.5,8.5,2,56012,513
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,220,2.5,12,9.5,39461,29956
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,221,6,7,1,721,1033
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,222,5.5,5.5,0,348,448
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,223,5,7,2,360,442
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,224,1,6,5,539,665
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,225,9.5,8,-1.5,740,445
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,226,4,8.5,4.5,389,747
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,227,1.5,5,3.5,228,283
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,228,6,8,2,5993,1063
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,229,3.5,6.5,3,479,358
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,230,6,5.5,-0.5,8247,621
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,231,6,6,0,5030,551
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,232,4,7,3,555,638
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,233,3,8,5,437,555
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,234,2.5,9.5,7,513,338
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,235,1,3.5,2.5,410,609
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,236,3.5,9.5,6,697,1112
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,237,9.5,6.5,-3,425,369
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,238,1.5,5.5,4,236,485
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,239,2,6,4,631,2721
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,240,3,1.5,-1.5,351,132
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,241,2,4.5,2.5,8507,318
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,242,7,7,0,673,425
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,243,4,3,-1,517,99
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,244,7,8,1,625,348
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,245,2,6.5,4.5,503,618
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,246,4,7,3,76851,359
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,247,3,3,0,689,515
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,248,3,8,5,410,593
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,249,4.5,4.5,0,76263,623
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,250,6.5,6,-0.5,514,715
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,251,2,4,2,858,682
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,252,5,4,-1,414,161
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,253,6,7,1,1383,603
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,254,2.5,4,1.5,704,328
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,255,5,6,1,404,471
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,256,2.5,5.5,3,413,528
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,257,7.5,6,-1.5,658,376
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,258,5,6,1,7919,310
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,259,1.5,5,3.5,261,617
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,260,2,6.5,4.5,187,822
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,261,3.5,7.5,4,581,396
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,262,3.5,5,1.5,608,1261
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,263,1.5,9,7.5,3485,705
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,264,2,6,4,4475,463
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,265,3,2.5,-0.5,444,325
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,266,2,-1,-3,428,233
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,267,7,8,1,417,342
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,268,2,2,0,4464,221
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,269,7,6,-1,807,425
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,270,9,8,-1,752,1071
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,271,3,4,1,624,531
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,272,4,8,4,417,171
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,273,1,4,3,307,91
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,274,4.5,3.5,-1,1184,390
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,275,5,8,3,644,446
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,276,2,8,6,985,330
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,277,2.5,4,1.5,244,147
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,278,0.5,6.5,6,256,489
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,279,6,4,-2,96,127
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,280,6.5,5.5,-1,394,237
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,281,0,6,6,111983,399
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,282,7,6,-1,698,389
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,283,4.5,6.5,2,740,2011
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,284,5,4.5,-0.5,565,295
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,285,7.5,8,0.5,776,433
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,286,5.5,4,-1.5,561,312
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,287,7.5,2,-5.5,344,95
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,288,2.5,5,2.5,124,395
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,289,3,1.5,-1.5,307,140
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,290,7,8.5,1.5,1337,1893
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,291,1,8.5,7.5,5540,483
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,292,4,3,-1,1360,6708
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,293,4.5,4,-0.5,435,302
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,294,-0.5,5,5.5,274,741
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,295,3.5,2,-1.5,185,126
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,296,2,4,2,366,171
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,297,3.5,5,1.5,707,366
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,298,5,4.5,-0.5,706,599
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,299,4,5.5,1.5,318,697
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,300,6.5,5,-1.5,357,517
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,301,3,8,5,420,1665
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,302,2,8,6,538,312
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,303,4.5,5.5,1,466,278
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,304,0.5,1,0.5,612,69
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,305,4,4.5,0.5,694,462
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,306,4,6,2,1430,182
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,307,1,1,0,265,189
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,308,2,2,0,426,108
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,309,5,4,-1,459,414
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,310,6,4,-2,308,196
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,311,7.5,6.5,-1,839,1134
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,312,1,6,5,174,832
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,313,6,3.5,-2.5,679,344
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,314,0.5,7.5,7,199,769
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,315,4,6,2,520,850
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,316,3.5,5,1.5,512,378
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,317,8,7,-1,563,790
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,318,3,7,4,324,176
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,319,5.5,9,3.5,493,301
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,320,4,4,0,2154,521
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,321,1,6,5,6674,641
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,322,4.5,6.5,2,624,442
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,323,2.5,5,2.5,320,502
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,324,4,5,1,664,444
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,325,2,3,1,391,226
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,326,2,9,7,111,878
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,327,3,4,1,88,204
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,328,2.5,7.5,5,375,383
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,329,7,6,-1,581,418
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,330,1.5,6,4.5,399,548
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,331,2,7,5,18276,402
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,332,3,6,3,679,649
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,333,3.5,5,1.5,341,228
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,334,2,5,3,759,421
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,335,3.5,3.5,0,862,326
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,336,2.5,6,3.5,682,227
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,337,2,10,8,798,3599
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,338,4,6,2,547,370
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,339,7,7,0,420,402
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,340,2,4.5,2.5,718,144
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,341,5.5,9,3.5,139,501
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,342,7,10.5,3.5,690,1174
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,343,5,1,-4,432,96
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,344,3,2.5,-0.5,716,182
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,345,3,3,0,220,432
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,346,4.5,0.5,-4,430,385
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,347,5.5,7.5,2,4617,528
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,348,2.5,4,1.5,160,352
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,349,4.5,9.5,5,892,606
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,350,0,5,5,439,491
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,351,4.5,5.5,1,525,278
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,352,2.5,4.5,2,230,541
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,353,3.5,8.5,5,551,664
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,354,6,6,0,17046,6897
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,355,5.5,4,-1.5,734,127
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,356,3,6.5,3.5,463,489
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,357,2.5,5,2.5,196,146
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,358,5,5,0,258,486
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,359,2.5,8,5.5,533,513
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,360,2,6.5,4.5,518,6568
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,361,8.5,5,-3.5,618,282
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,362,-0.5,1,1.5,1423,174
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,363,4.5,6.5,2,920,916
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,364,4,5,1,295,77
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,365,5,6.5,1.5,613,590
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,366,3,5.5,2.5,506,178
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,367,5,6.5,1.5,121,589
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,368,4,4,0,280,179
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,369,1.5,3,1.5,515,19499
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,370,3.5,4,0.5,5710,130
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,371,6,9.5,3.5,1103,540
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,372,4,3.5,-0.5,371,329
+S20_USD,R1_Gen_Bio,1R,lower,1General Biology,373,4,3,-1,423,168
+,,,,,,,,,,
